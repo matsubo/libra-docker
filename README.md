@@ -11,6 +11,6 @@ docker run -it libra-docker /libra/scripts/cli/start_cli_testnet.sh
 
 ## Issues
 
-- `./scripts/dev_setup.sh` does not finish.
+- `./scripts/dev_setup.sh` does not finish as expected.
 
 
